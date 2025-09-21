@@ -84,6 +84,9 @@ from rag_system import generate_recycling_instructions
 out = generate_recycling_instructions("Glass")
 print(out["instructions"])
 
+RealWaste DatasetLinks to an external site.: Contains 3,000+ images of waste items classified into 8 categories (paper, cardboard, biological, metal, plastic, green-glass, brown-glass, white-glass)
+https://archive.ics.uci.edu/dataset/908/realwaste
+
 📊 Results
 
 Image Classification
